@@ -1,0 +1,2 @@
+# gurusitemap
+sitemap javascript
